@@ -117,18 +117,13 @@ Remaining balance: Rs 30
 
 This project demonstrates a fully functional system built entirely in MIPS assembly — covering item selection, purchase processing, receipt generation, stock management, and admin control. It bridges the gap between the theory of computer architecture and a working, practical application, while highlighting how precise, hardware-level operations can power a complete real-world system.
 
-## References
-
-- [MARS Simulator Documentation](https://dpetersanderson.github.io/index.html)
-- MIPS Assembly Language Programmer's Guide
-- Patterson, David A., & Hennessy, John L. — *Computer Organization and Design: The Hardware/Software Interface*
 
 ## Authors
 
 **Abdul Rehman** — Software Engineer
 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-750208312/)
 
-**Muhammad Ahmad**
+**Muhammad Ahmad** — Software Engineer
 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-021228348/)
 
 ## License
